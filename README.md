@@ -96,4 +96,5 @@ Out of scope: Standard Sinhala, backend APIs, performance, security testing
 Author
 Student ID: IT23583764  
 Module: IT3040 - IT Project Management  
+Name: CHANDRASIRI S D L B
 Assignment: Assignment 1 - Option 1
